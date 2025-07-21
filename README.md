@@ -45,6 +45,7 @@ After cleaning, the dataset was imported into Power BI to develop a fully intera
 ## Power BI Dashboard
 
 The dashboard provides a consolidated view of the analysis, featuring key metrics, geographical distributions, and cuisine analytics.
+<img width="1185" height="667" alt="image" src="https://github.com/user-attachments/assets/c53e7c4f-fca9-4e29-8a9b-7a70b849bc6d" />
 
 -----
 
